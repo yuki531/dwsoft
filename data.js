@@ -1,0 +1,37 @@
+﻿$axure.loadCurrentPage({
+  "url":"资料库.html",
+  "generationDate":new Date(1473392034961.29),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable",
+"yz_msg"],
+  "page":{
+    "packageId":"12de9d0686bb4334aad4b7d75a98ea0b",
+    "type":"Axure:Page",
+    "name":"资料库",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[]}},
+  "masters":{
+},
+  "objectPaths":{
+}});
